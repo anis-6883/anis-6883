@@ -9,7 +9,6 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=anis-6883)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anis-6883)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
