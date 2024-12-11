@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Project Architecture**
 
-- 💬 Ask me about **React, Next.js, Express.js, MongoDB**
+- 💬 Ask me about **React.js, Next.js, Express.js, Nest.js MongoDB**
 
 - 📫 How to reach me **anisuzzaman6883@gmail.com**
 
