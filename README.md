@@ -36,6 +36,11 @@
 
 ---
 
+## 📈 Contribution Graph
+[![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anis-6883&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
