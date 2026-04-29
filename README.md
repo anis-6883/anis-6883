@@ -31,20 +31,29 @@
 ## 🛠️ Tools & Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=selenium,postman,mongodb,mysql,git,figma" />
+<img src="https://skillicons.dev/icons?i=postman,mongodb,mysql,git,figma" />
 </p>
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anis-6883&show_icons=true&locale=en&layout=compact" alt="anis-6883" /></p>
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anis-6883&show_icons=true&locale=en" alt="anis-6883" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=anis-6883&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anis-6883&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anis-6883&" alt="anis-6883" /></p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anis-6883" alt="anis-6883" /></a> </p>
+## 🌐 Connect With Me
 
+<p align="center">
+<a href="https://www.linkedin.com/in/sami5671/](https://www.linkedin.com/in/muhammad-anisuzzaman">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.facebook.com/share/1BqKBz6rN6">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+</p>
 
-
-
-
+---
