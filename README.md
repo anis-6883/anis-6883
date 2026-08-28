@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Anisuzzaman</h1>
-<h3 align="center">Lead Software Engineer @ RootDevs</h3>
+<h3 align="center">Software Engineer @ RootDevs</h3>
 
 - 🔭 I’m currently working on **RootDevs**
 
